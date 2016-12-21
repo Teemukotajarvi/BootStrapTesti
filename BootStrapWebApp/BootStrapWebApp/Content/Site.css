@@ -2,7 +2,9 @@
     padding-top: 55px;
     padding-bottom: 20px;
 }
-
+.text-primary {
+    color: #ff6a00 !important;
+}
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
